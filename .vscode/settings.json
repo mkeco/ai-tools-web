@@ -1,0 +1,11 @@
+{
+    "go.goroot": "/Users/mkzero/.local/share/mise/installs/go/1.25.4",
+    "debug.javascript.defaultRuntimeExecutable": {
+        "pwa-node": "/Users/mkzero/.local/share/mise/shims/node"
+    },
+    "python.defaultInterpreterPath": "/Users/mkzero/.local/share/mise/installs/python/3.14.0/bin/python",
+    "go.alternateTools": {
+        "go": "/Users/mkzero/.local/share/mise/shims/go",
+        "gopls": "/Users/mkzero/.local/share/mise/shims/gopls"
+    }
+}
